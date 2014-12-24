@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1418419816 source:c:\_pjt\tutorial.examples-master\draw.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<complex>
+	<typeinfo>
+	"gif.hpp"
+
+1417810254 c:\_pjt\tutorial.examples-master\gif.hpp
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1419449406 source:c:\users\asus\desktop\Новая папка (2)\draw.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<complex>
+	<typeinfo>
+	"gif.hpp"
+
+1417806654 c:\users\asus\desktop\Новая папка (2)\gif.hpp
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+
